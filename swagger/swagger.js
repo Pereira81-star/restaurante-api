@@ -10,11 +10,11 @@ const options = {
       description: 'Documentación de endpoints para usuarios, mesas y reservaciones',
     },
     servers: [
-      {
-        url: 'http://localhost:3000',
-        description: 'Servidor Local',
-      },
-    ],
+  {
+    url: 'https://restaurante-api-jfnb.onrender.com',
+    description: 'Servidor de Producción'
+  }
+],
     components: {
       securitySchemes: {
         bearerAuth: {

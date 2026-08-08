@@ -1,13 +1,16 @@
-# REST API - Sistema de Gestión de Restaurante
+# Restaurante API REST 🍽️
 
-API REST desarrollada con Node.js, Express y PostgreSQL para la gestión de usuarios, mesas y reservaciones.
+API RESTful desarrollada para la gestión de usuarios, mesas y reservaciones de un restaurante, incluyendo autenticación mediante JWT y documentación interactiva con Swagger.
 
-## Requisitos previos
-- Node.js (v14+)
-- PostgreSQL
+## 🚀 Tecnologías utilizadas
 
-## Configuración del proyecto
+* **Node.js** & **Express**
+* **PostgreSQL** (Base de datos relacional)
+* **JWT** (JSON Web Tokens)
+* **Swagger / OpenAPI 3.0**
 
-1. Clonar el repositorio e instalar dependencias:
+## 🛠️ Instalación y Configuración
+
+1. Clonar el repositorio:
    ```bash
-   npm install
+   git clone [https://github.com/Pereira81-star/restaurante-api.git](https://github.com/Pereira81-star/restaurante-api.git)
